@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+#Hi there!
 
-### More Information
+I'm a Software Engineer based in Edinburgh, Scotland. My career has given me many opportunities to work with a vast array of technologies my  personal passion has always been databases.
 
-A place to include any other types of information that you'd like to include about yourself.
+This site is a chance for me to document my learnings as I embark upon learning as much as I can about SQL Server. It's a bonus if others find it of any use. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+#[email@domain.com](mailto:robertmcbryde83@gmail.com)

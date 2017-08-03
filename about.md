@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-#Hi there!
+# Hi there!
 
 I'm a Software Engineer based in Edinburgh, Scotland. My career has given me many opportunities to work with a vast array of technologies my  personal passion has always been databases.
 
@@ -12,4 +12,4 @@ This site is a chance for me to document my learnings as I embark upon learning 
 
 ### Contact me
 
-#[email@domain.com](mailto:robertmcbryde83@gmail.com)
+[//]: # (Comment)  [email@domain.com](mailto:robertmcbryde83@gmail.com)
